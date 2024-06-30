@@ -1,12 +1,13 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/Juho_Logo.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { MdAlternateEmail } from "react-icons/md";
 
 function Home2() {
   return (
@@ -78,6 +79,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:juhoye0930@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <MdAlternateEmail />
                 </a>
               </li>
             </ul>
