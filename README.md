@@ -1,4 +1,4 @@
-<font size="6">**Personal Portfolio Website**</font>
+**Personal Portfolio Website**
 
 Hi! This is my personal portfolio website built by react.js, JavaScript, HTML, CSS.
 
