@@ -25,7 +25,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(248 149 0)" }}>
             "Coding is a paint of imagination"{" "}
           </p>
         </blockquote>

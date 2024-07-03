@@ -32,7 +32,7 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons" data-tip="Google Cloud">
         <SiGooglecloud />
       </Col>
-      <ReactTooltip className="custom-tooltip" />
+      <ReactTooltip style={{ width: "100%" }} /> 
     </Row>
   );
 }

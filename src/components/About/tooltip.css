@@ -1,8 +1,12 @@
 .custom-tooltip {
-    display: inline-block; 
-    width: max-content;
-    white-space: nowrap;
-    text-align: left;
-    padding: 10px;
-    font-size: 12px; /* Adjust font size */
-  }
+  display: block; 
+  width: 30px;
+  max-width: 30px; 
+  white-space: normal; 
+  text-align: center;
+  padding: 10px;
+  font-size: 12px; 
+  background-color: #555; 
+  color: #fff; 
+  border-radius: 5px; 
+}
