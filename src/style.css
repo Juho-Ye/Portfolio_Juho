@@ -610,6 +610,8 @@ button:focus {
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
+  max-width: 100vw !important;
+  overflow-x: hidden;
 }
 
 .resume {
