@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { BiHappy } from "react-icons/bi";
+import "./tooltip.css"
 
 function AboutCard() {
   return (

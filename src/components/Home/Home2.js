@@ -8,10 +8,12 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { MdAlternateEmail } from "react-icons/md";
+import Particle from "../Particle";
 
 function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
+      <Particle />
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
